@@ -10,7 +10,7 @@ class Shoe
   end 
   
   def cobble 
-    puts 
+    
   end 
   
 end # Make your shoe class here!
