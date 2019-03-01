@@ -9,4 +9,8 @@ class Shoe
     @brand 
   end 
   
+  def cobble 
+    puts 
+  end 
+  
 end # Make your shoe class here!
